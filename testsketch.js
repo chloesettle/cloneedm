@@ -126,7 +126,7 @@ function setup() {
   frameRate(30); // 
   imageMode(CENTER);
 
-  cursor('https://s3.amazonaws.com/mupublicdata/cursor.cur');
+  //cursor('https://s3.amazonaws.com/mupublicdata/cursor.cur');
 
 
 
