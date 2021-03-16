@@ -123,7 +123,7 @@ function setup() {
   var canvas = createCanvas(1200, 1200);
   canvas.parent('sketch-div'); 
   background(0,0,0,0);
-  frameRate(90); // 
+  frameRate(30); // 
   imageMode(CENTER);
 
   cursor('https://s3.amazonaws.com/mupublicdata/cursor.cur');
